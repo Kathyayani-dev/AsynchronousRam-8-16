@@ -2,7 +2,7 @@
   ...
 " ============================================================================
 " Netrw Directory Listing                                        (netrw v170)
-"   /home2/B124/ThungAPavantH/VLSI_RN/Verilog_labs/lab5/sim/ram8x16_as.v
+"   /home2/B124/DNKathyayani/VLSI_RN/Verilog_labs/lab5/sim/ram8x16_as.v
 "   Sorted by      name
 "   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
 "   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
